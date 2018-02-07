@@ -122,3 +122,4 @@ with(power_consumption, plot(x = datetime,
                              y = Global_reactive_power,
                              type = 'l'))
 dev.off()
+

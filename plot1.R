@@ -47,3 +47,4 @@ hist(power_consumption$Global_active_power,
      main = 'Global Active Power',
      xlab = 'Global Active Power (kilowatts)')
 dev.off()
+

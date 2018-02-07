@@ -48,3 +48,4 @@ with(power_consumption, plot(x = datetime,
                              xlab = '',
                              ylab = 'Global Active Power (kilowatts)'))
 dev.off()
+
